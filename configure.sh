@@ -28,4 +28,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 
 # Install zsh plugins + theme + fonts
 
-
+# Install javac
+sudo apt install -y java 
+sudo apt-get install default-jdk
