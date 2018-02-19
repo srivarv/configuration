@@ -13,7 +13,7 @@ $ ./configure.sh
 # Atom.io Support
 Make sure to install these plugins:
 	1. scripts
-	2. gpp
+	2. gpp-compiler
 
 Feel free to follow the source code instructions located in /examples
 
