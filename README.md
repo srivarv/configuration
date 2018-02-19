@@ -5,8 +5,8 @@ This repository contains a collection of my configuration scripts used to initia
 # Quickstart
 
 ```bash
-$ git clone ...
-$ cd config
+$ git clone https://github.com/srivarv/configuration.git
+$ cd configuration
 $ chmod +x configure.sh
 $ ./configure.sh
 ```
